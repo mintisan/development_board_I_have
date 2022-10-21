@@ -51,3 +51,5 @@
 ### [Nano Pi R2S](https://www.friendlyelec.com/index.php?route=product/product&product_id=282)
 
 ### [ZimaBoard](https://www.zimaboard.com/)
+
+### [CrazePony](http://www.crazepony.com/)
