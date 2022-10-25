@@ -44,6 +44,10 @@
 
 ### [Sipeed Maix Bit](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/maix_bit.html)
 
+## FPGA 
+
+### [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)
+
 ## Others
 
 ### [PikaScript](http://pikascript.com/)
