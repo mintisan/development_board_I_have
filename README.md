@@ -13,6 +13,8 @@
 
 ### [ST STM32F429I-DISC1 Discovery](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
 
+### [NUCLEO-F413ZH](https://www.st.com/en/evaluation-tools/nucleo-f413zh.html)
+- [X-CUBE-OPUS](https://www.st.com/en/embedded-software/x-cube-opus.html)
 
 ## ESP
 
