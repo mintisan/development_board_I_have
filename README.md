@@ -15,6 +15,8 @@
 
 ### [NUCLEO-F413ZH](https://www.st.com/en/evaluation-tools/nucleo-f413zh.html)
 - [X-CUBE-OPUS](https://www.st.com/en/embedded-software/x-cube-opus.html)
+- [STM32F413ZH](https://www.st.com/en/microcontrollers-microprocessors/stm32f413zh.html) : High-performance access line, Arm Cortex-M4 core with DSP and FPU, 1,5 MByte of Flash memory, 100 MHz CPU, ART Accelerator, DFSDM
+
 
 ## ESP
 
