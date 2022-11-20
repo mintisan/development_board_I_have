@@ -7,6 +7,10 @@
 
 ### [Arduino MKR Zero](https://docs.arduino.cc/hardware/mkr-zero)
 
+## ARM Cortex-M3
+
+### [EVAL-ADICUP360](https://wiki.analog.com/resources/eval/user-guides/eval-adicup360)
+
 ## ARM Cortex-M4
 
 ### [NUCLEO-F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html)
